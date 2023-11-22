@@ -1,6 +1,6 @@
 ![image](https://github.com/Tressaera/Tressaera/assets/104678461/e5380244-9292-4cfd-bc7b-7534d001dd19)![image](https://github.com/Tressaera/Tressaera/assets/104678461/e7ffe322-63a4-4ac9-920e-73785447b41c)<h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I am a 24 years old Software Developer living in Bursa/Turkey</h3>
-[![MasterHead]([https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png](https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png))
+[![MasterHead]((https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
