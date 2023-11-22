@@ -87,3 +87,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tressaera&show_icons=true&locale=en" alt="tressaera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tressaera&" alt="tressaera" /></p>
+
+![snake gif](https://github.com/Tressaera/Tressaera/blob/output/github-contribution-grid-snake.gif)
