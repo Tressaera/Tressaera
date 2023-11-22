@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I am a 24 years old Software Developer living in Bursa/Turkey</h3>
-<img align="center" src="https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png">
+<img align="center" src="[https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png](https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png)">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mrtylmz99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrtylmz99" height="30" width="40" /></a>  
