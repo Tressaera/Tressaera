@@ -1,6 +1,6 @@
+[![MasterHead](https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png))
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I am a 24 years old Software Developer living in Bursa/Turkey</h3>
-[![MasterHead](https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
