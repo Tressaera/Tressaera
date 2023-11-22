@@ -1,4 +1,4 @@
-[![MasterHead](https://www.inficaretech.com/wp-content/uploads/2017/11/dotnet_banner-2.png))
+![dotnet_banner-2](https://github.com/Tressaera/Tressaera/assets/104678461/a19021c5-8e33-48f4-b6c1-10aaea0c18d8)
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I am a 24 years old Software Developer living in Bursa/Turkey</h3>
 
