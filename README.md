@@ -82,9 +82,6 @@
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-
-<a href="https://firebirdsql.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original-wordmark.svg" alt="firebird" width="40" height="40"/></a>
 <br>
 
 <h3 align="left">Version Management:</h3>
