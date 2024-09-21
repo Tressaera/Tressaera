@@ -1,5 +1,26 @@
 # 💫 About Me:
-🌱 I'm currently working on:<br>A Hotel Management System project using Pocketbase for the backend.<br>👯 I'm looking to collaborate on:<br>Open source projects related to web development or management systems.<br>Projects utilizing modern technologies like React, Node.js, or RESTful APIs.<br>🤝 I'm looking for help with:<br>Improving my skills in frontend frameworks like React and exploring full-stack development.<br>Working with API integrations and optimizing backend systems.<br>🌱 I'm currently learning:<br>Management Information Systems through distance education.<br>Advanced JavaScript, API development, and backend optimization.<br>💬 Ask me about:<br>Pocketbase integration or backend management.<br>My experience in IT support and software development internships.<br>⚡ Fun fact:<br>I’m always excited to explore new technologies and enjoy learning about different cultures.
+### **🌱 I'm currently working on:**
+A Hotel Management System project using Pocketbase for the backend.
+
+### **👯 I'm looking to collaborate on:**
+Open source projects related to web development or management systems.  
+Projects utilizing modern technologies like React, Node.js, or RESTful APIs.
+
+### **🤝 I'm looking for help with:**
+Improving my skills in frontend frameworks like React and exploring full-stack development.  
+Working with API integrations and optimizing backend systems.
+
+### **🌱 I'm currently learning:**
+Management Information Systems through distance education.  
+Advanced JavaScript, API development, and backend optimization.
+
+### **💬 Ask me about:**
+Pocketbase integration or backend management.  
+My experience in IT support and software development internships.
+
+### **⚡ Fun fact:**
+I’m always excited to explore new technologies and enjoy learning about different cultures.
+
 
 
 ## 🌐 Socials:
