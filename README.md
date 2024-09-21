@@ -1,3 +1,4 @@
+![dotnet_banner-2](https://github.com/Tressaera/Tressaera/assets/104678461/a19021c5-8e33-48f4-b6c1-10aaea0c18d8)
 # 💫 About Me:
 ### **🌱 I'm currently working on:**
 A Hotel Management System project using Pocketbase for the backend.
