@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mrtylmz99/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@mrtylmz99.com">
+  <a href="mailto:mrtylmz863@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -63,7 +63,7 @@ An AI-powered, cross-platform appointment management system developed with moder
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtylmz99&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrtylmz99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mrtylmz99&theme=dark&hide_border=false" />
   <br/><br/>
